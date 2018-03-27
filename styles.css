@@ -19,32 +19,32 @@ body {
 a {
   position: absolute;
   color:white;
-  font-size:20px;
+  font-size:24px;
   text-decoration: none;
 }
 
 #instagram {
-  top:80px;
-  left:40px;
+  top:30%;
+  left:50px;
 }
 
 #facebook {
   bottom: 40px;
-  left:calc(50% - 20px);
+  left:20%;
 }
 
-#spotify {
-  right:20px;
-  top:calc(50% - 10px);
+#soundcloud {
+  right:60px;
+  top:calc(50% - 60px);
 }
 
 h1.title {
   position: absolute;
-  top:10px;
+  top:20px;
   right:0;
   left:0;
   text-align: center;
-  font-size:80px;
+  font-size:86px;
   color:white;
   font-weight: 300;
   font-style: italic;
